@@ -43,15 +43,15 @@ It gives an interesting twist to a chart as simple as line chart and stands out 
 
 The downside in the visualization is analyzing over the axes. Quantifying the exact temperature for each year is not possible as the temperature is wrt Average. Though on scrolling through the plot one can see the year but it would have been better to have the axis show the year number. 
 
-**Reference -<a href='https://www.bloomberg.com/graphics/2015-whats-warming-the-world/' rel='nofollow'>What's warming the world</a> **
+Reference -<a href='https://www.bloomberg.com/graphics/2015-whats-warming-the-world/' rel='nofollow'>What's warming the world</a>
 
 ![](https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Visualization1_bloomberg.PNG)
 
 
-```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Graph Series",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("figs/ww1.png","figs/ww2.png"))
-knitr::include_graphics(c("figs/ww3.png","figs/ww4.png"))
-```
+{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Graph Series",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/ww1.png","https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/ww2.png"))
+knitr::include_graphics(c("https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/ww3.png","https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/ww4.png"))
+
 
 ### Evaluation : 
 
@@ -69,16 +69,14 @@ Though visualization makes a subtle point of human activities causing temperatur
 
 *PS- Below the GIF are Before and After images of the visualization.Before image is what inspired this Viz and after image is what was campaiged throughout the world for climate change awareness* 
 
-**Reference: <a href='https://www.vox.com/2019/3/4/18246245/climate-change-warming-stripes' rel='nofollow'>Climate change data representation</a>**
+Reference: <a href='https://www.vox.com/2019/3/4/18246245/climate-change-warming-stripes' rel='nofollow'>Climate change data representation</a>
 
 
 ![](https://media.giphy.com/media/crqhvcJRxDjlC/giphy.gif)
 
 
-
-```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Before and After Images for the above Visualization",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("figs/Gif_inspiration.png","figs/Gif_goal.png"))
-```
+{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Before and After Images for the above Visualization",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Gif_inspiration.png","https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Gif_goal.png"))
 
 
 ### Evaluation : 
@@ -99,15 +97,14 @@ The visualization is very informative and captures all the facts at one place. T
 The choice of chart is very unique, but in doing so it gives away the essence of simplicity. Some viewers might find it hard to understand this visualization right away as we are used to viewing data through lines and bars. The use of specific language other than English makes it hard to be widely used and understood. The axis for year and scale for length of petals are not clearly described for each country's plot requiring efforts to identify the year. 
 
 
-**Reference: <a href='https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions' rel='nofollow'>CO2 Emissions</a>**
+Reference: <a href='https://www.behance.net/gallery/31279439/Carbon-Dioxide-Emissions' rel='nofollow'>CO2 Emissions</a>
+
+![](https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/CO2_emissions.PNG)
 
 
-![](figs/CO2_emissions.png)
+{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Closer look at Visualization elements",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/COE1.PNG","https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/COE2.PNG"))
 
-
-```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Closer look at Visualization elements",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("figs/COE1.png","figs/COE2.png"))
-```
 
 
 ### Evaluation : 
@@ -126,10 +123,11 @@ The black line shows observed global average temperatures. From the green line i
 
 One thing that is not very clear from graph is what influence does human factors have exclusive of natural factors quantitavely.
 
-**Reference: <a href='https://www.globalchange.gov/browse/multimedia/%EF%BF%BCseparating-human-and-natural-influences-climate' rel='nofollow'>Human Vs Natural Influences On climate</a>**
+Reference: <a href='https://www.globalchange.gov/browse/multimedia/%EF%BF%BCseparating-human-and-natural-influences-climate' rel='nofollow'>Human Vs Natural Influences On climate</a>
 
 
-![](figs/HumanVsNatural_Influence_on_Climate.png)
+
+![](https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/HumanVsNatural_Influence_on_Climate.PNG)
 
 
 ### Evaluation : 
@@ -147,9 +145,11 @@ This visualization is based on data from 2011 study that summarizes the opinions
 
 The chart is based on survey data and there is possibilty that the essence of responses is not being captured by this chart.The chart is simple and conveys the message but data may have dimensions that can't be represented through basic bar chart that raises ambiguity concerns. Also, the categories are not properly evident unless one notices that there is no space between the bars. The survey questions could have been categorised well and then the chart would have provided more reasoning. 
 
-**Reference:<a href='https://en.wikipedia.org/wiki/File:Climate_science_opinion2.png' rel='nofollow'> Human role in Global Warming</a>**
+Reference:<a href='https://en.wikipedia.org/wiki/File:Climate_science_opinion2.png' rel='nofollow'> Human role in Global Warming</a>
 
-![](figs/AgainstHumanRole.png)
+
+![](https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/AgainstHumanRole.PNG)
+
 
 
 ### Evaluation : 
