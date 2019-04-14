@@ -1,19 +1,5 @@
 # Self-Study-Project-on-Climate-Change
 Analysis of various Climate change visualizations
----
-title: "Self Study Project - Prachi Sharma"
-author: "Prachi Sharma"
-date: "April 12, 2019"
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 
 # Evaluation Framework
 
@@ -59,8 +45,7 @@ The downside in the visualization is analyzing over the axes. Quantifying the ex
 
 **Reference -<a href='https://www.bloomberg.com/graphics/2015-whats-warming-the-world/' rel='nofollow'>What's warming the world</a> **
 
-
-![](Visualization1_bloomberg.png)
+href='https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Visualization1_bloomberg.PNG'
 
 
 ```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Graph Series",fig.show='hold',fig.align='center'}
