@@ -78,6 +78,10 @@ Reference: <a href='https://www.vox.com/2019/3/4/18246245/climate-change-warming
 {r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Before and After Images for the above Visualization",fig.show='hold',fig.align='center'}
 knitr::include_graphics(c("https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Gif_inspiration.png","https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Gif_goal.png"))
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Gif_inspiration.png)  |  
+![](https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Gif_goal.png)
 
 ### Evaluation : 
 
