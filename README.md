@@ -45,7 +45,7 @@ The downside in the visualization is analyzing over the axes. Quantifying the ex
 
 **Reference -<a href='https://www.bloomberg.com/graphics/2015-whats-warming-the-world/' rel='nofollow'>What's warming the world</a> **
 
-href='https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Visualization1_bloomberg.PNG'
+![](https://github.com/Psharma2193/Self-Study-Project-on-Climate-Change/blob/master/Visualization1_bloomberg.PNG)
 
 
 ```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap="Graph Series",fig.show='hold',fig.align='center'}
